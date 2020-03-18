@@ -15,8 +15,8 @@ http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL",SCTV HD
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL",INDOSIAR Liga1
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL",INDOSIAR
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="LOKAL",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
