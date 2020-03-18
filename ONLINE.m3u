@@ -19,10 +19,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="LOKAL",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
-http://210.210.155.35/session/8d5d9996-a900-11e9-987e-825088dfe94c/qwr9ew/s/s102/02.m3u8
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=gratisan
 
 #EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
