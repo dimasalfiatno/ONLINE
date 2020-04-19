@@ -4,7 +4,7 @@
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL",  RCTI
-http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="LOKAL",  MNC
 http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
