@@ -21,7 +21,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="LOKAL",ANTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="LOKAL",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="LOKAL", NET TV SD
