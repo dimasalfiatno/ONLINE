@@ -1,0 +1,91 @@
+#EXTM3U
+######## USEETV INDONESIA #########
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="USEETV INDONESIA",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
+
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title="USEETV  INDONESIA",GTV
+
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title="USEETV  INDONESIA",INEWS
+
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV 
+https://anevia115.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_499968=4-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
+
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybO3da6Bk8PJ2Ns03Gl9qO6U)/dm/3/x619221/s/live-2.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
+
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1459146868_b744100_sleng.m3u
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
+
+https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w2128411674_b384000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
+
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
+
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MG72549W/CNBC.jpg" group-title="USEETV  INDONESIA",CNBC Indonesia
+
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/855nFvRM/berita-satu.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_HD 
+
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/76WtSL9c/13-beritasatu.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_WORLD 
+
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MHfP58rG/unnamed.jpg" group-title="USEETV  INDONESIA",RRI NET
+
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="USEETV  INDONESIA",TVRI 
+
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="USEETV  INDONESIA",TVRI 3
+
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
+
+http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
+
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="USEETV  INDONESIA",Jogja TV
+
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="USEETV  INDONESIA",CTV BANTEN 
+
+http://103.23.201.170:1935/live/livestream/chunklist_w1878993734.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="USEETV  INDONESIA",ADI TV
+
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrfc1rG/18-Batu-TV.jpg" group-title="USEETV  INDONESIA",BATU TV
+
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/gJTbQ2tk/4-AREK-TV.jpg" group-title="USEETV  INDONESIA",AREK TV
+
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rwksvJ7V/LIVE-TV.jpg" group-title="USEETV  INDONESIA",LIFE TV
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+
